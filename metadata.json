@@ -1,0 +1,7 @@
+{
+  "name": "HAYGHORIDE",
+  "description": "A bilingual mobile-first web app for organizing group powersport and off-road activities like motorcycle, ATV, side-by-side, and bicycle rides. Features include ride reminders, emergency contact sharing, ratings, and Google Maps grounding for destination selection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
